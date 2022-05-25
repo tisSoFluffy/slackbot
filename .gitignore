@@ -1,0 +1,4 @@
+/.env
+/.venv
+/ZoneGuide.yaml
+/__pycache__
